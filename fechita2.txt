@@ -1,0 +1,2 @@
+(2008,04,15,15,50,13)
+(1979,10,31,08,29,56)- time(): 15:50:1315 y 50 del día- time(), .hour(), .minute(), .second(): 08:29:5682956¿la hora 1 es mayor que la hora 2?: True¿la hora 1 es menor que la hora 2?: False
